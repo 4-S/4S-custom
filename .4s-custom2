@@ -10,7 +10,7 @@
 ##############################
 ##   |Shortcut| Command
 ##---|--------|--------------------------------------
-alias 4c1     'date ; echo "example of custom1 alias"'
+alias 4c2     'date ; echo "example of custom2 alias"'
 
 ## Tail logs shortcut
 #alias tdl 'tail -n 50 -f /var/log/dmesg.today'
