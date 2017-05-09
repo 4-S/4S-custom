@@ -1,7 +1,7 @@
 ##############################
 ## 4S Core CUSTOM alias
 ## Extent 4S with your own alias files!
-## 
+##
 ## Read the fucking manual
 ## https://github.com/4-S/4S
 ## Add or uncomment what you need.
@@ -10,18 +10,18 @@
 ##############################
 ##   |Shortcut| Command
 ##---|--------|--------------------------------------
-alias 4c2     'date ; echo "example of custom2 alias"'
+alias 4c2='date ; echo "example of custom2 alias"'
 
 ## Tail logs shortcut
-#alias tdl 'tail -n 50 -f /var/log/dmesg.today'
-#alias tal 'tail -n 50 -f /var/log/auth.log'
+#alias tdl='tail -n 50 -f /var/log/dmesg.today'
+#alias tal='tail -n 50 -f /var/log/auth.log'
 
 ## Change directory shortcuts
 #alias work cda
-#alias cdh 'cd ~'
-#alias cdl 'cd /var/log/ ; ls -hal '
+#alias cdh='cd ~'
+#alias cdl='cd /var/log/ ; ls -hal'
 
 ## List file shortcuts
-#alias ll 'ls -alF'
-#alias la 'ls -A'
-#alias l 'ls -CF'
+#alias ll='ls -alF'
+#alias la='ls -A'
+#alias l='ls -CF'
